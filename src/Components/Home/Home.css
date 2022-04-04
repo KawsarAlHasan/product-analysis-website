@@ -1,0 +1,16 @@
+.home{
+    width: 100%;
+    display: flex;
+}
+
+.home-text{
+    width: 65%;
+}
+
+.home-imag{
+    width: 35%;
+}
+
+.home-imag img{
+    width: 100%;
+}
