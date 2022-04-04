@@ -1,11 +1,11 @@
 import React from 'react';
-import img from './images/Funny-404-Pages.gif';
+import img from '../images/Funny-404-Pages.gif';
 import './NotFound.css'
 
 const NotFound = () => {
     return (
         <div>
-            <img src={img} alt="" />
+            <img className="mx-32" src={img} alt="" />
         </div>
     );
 };
