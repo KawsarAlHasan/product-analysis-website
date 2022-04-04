@@ -14,3 +14,13 @@
 .home-imag img{
     width: 100%;
 }
+
+.review-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.more-btn{
+    margin-top: -50px;
+}

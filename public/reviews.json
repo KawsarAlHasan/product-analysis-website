@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "name": "Justin Shaifer",
+      "ratting": "4.6",
+      "text": "Check out the best laptop deals from top PC makers that are actually worth buying.",
+      "img": "images/justin-shaifer.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Daniel Xavier",
+      "ratting": "5.0",
+      "text": "Asus's refresh of its Chromebook 514 blends luxury with robust performance life.",
+      "img": "images/daniel-xavier.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Andrea Piacquadio",
+      "ratting": "4.3",
+      "text": "The 13.3-inch model is also expected to get a slightly larger display in 2023.",
+      "img": "images/andrea-piacquadio.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Will Jack",
+      "ratting": "4.7",
+      "text": "The design needs improving, but it's great to see another modular laptop hit the market.",
+      "img": "images/will-jack.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Mr. John",
+      "ratting": "4.5",
+      "text": "Asus's big, burly barely portable, but otherwise could be the ultimate mobile workstation.",
+      "img": "images/Mr. John.jpg"
+    },
+    {
+      "id": "6",
+      "name": "mostafa-sannad",
+      "ratting": "4.0",
+      "text": "Asus's Predator Helios 300 remains a good doesn't stand out in a fiercely competitive field.",
+      "img": "images/mostafa-sannad.jpg"
+    }
+  ]
