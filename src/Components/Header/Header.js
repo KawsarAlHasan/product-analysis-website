@@ -3,12 +3,24 @@ import React from 'react';
 const Header = () => {
     return (
         <div>
-            <nav>
-                <a href="home">HOME</a>    
-                <a href="reviews">REVIEWS</a>    
-                <a href="dashboard">DASHBOARD</a>   
-                <a href="blogs">BLOGS</a> 
-                <a href="about">ABOUT</a>    
+            <nav className="m-6">
+                <ul className="flex justify-center">
+                    <li className="mr-6">
+                        <a className="text-blue-500 hover:text-blue-800 font-semibold" href="home">HOME</a>
+                    </li>
+                    <li className="mr-6">
+                        <a className="text-blue-500 hover:text-blue-800 font-semibold" href="reviews">REVIEWS</a>
+                    </li>
+                    <li className="mr-6">
+                        <a className="text-blue-500 hover:text-blue-800 font-semibold" href="dashboard">DASHBOARD</a>
+                    </li>
+                    <li className="mr-6">
+                        <a className="text-blue-500 hover:text-blue-800 font-semibold" href="blogs">BLOGS</a>
+                    </li>
+                    <li className="mr-6">
+                        <a className="text-blue-500 hover:text-blue-800 font-semibold" href="about">ABOUT</a>
+                    </li>
+                </ul>
             </nav>
         </div>
     );
