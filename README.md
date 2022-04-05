@@ -4,10 +4,10 @@ Live site: [Gaming Laptop App](https://magenta-tarsier-4960e1.netlify.app/).
 
 ## The work of this website
 
-Creating a home page, 
-giving three customer reviews, 
-6t reviews on the reviews page,
-I have answered two questions,
+Creating a home page, .\
+giving three customer reviews, .\
+6t reviews on the reviews page, .\
+I have answered two questions, .\
 creating a 404 page, etc.
 
 ## Available Scripts
