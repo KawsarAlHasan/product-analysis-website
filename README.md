@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Gaming Laptop App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live site: [Gaming Laptop App](https://magenta-tarsier-4960e1.netlify.app/).
+
+## The work of this website
+
+Creating a home page, 
+giving three customer reviews, 
+6t reviews on the reviews page,
+I have answered two questions,
+creating a 404 page, etc.
 
 ## Available Scripts
 
